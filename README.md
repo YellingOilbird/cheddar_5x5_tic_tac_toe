@@ -1,10 +1,11 @@
-<p>
-x ▢ ▢ ▢ ▢
-▢ ▢ o ▢ ▢
+```rust
+X ▢ ▢ ▢ ▢
+▢ ▢ O ▢ ▢
 ▢ ▢ ▢ ▢ ▢
-▢ o ▢ ▢ ▢
-▢ x ▢ o ▢
-<p>
+▢ X ▢ ▢ ▢
+▢ O ▢ O ▢
+```
+
 ## Cheddar 5X5 TIC-TAC-TOE Game
 
 
